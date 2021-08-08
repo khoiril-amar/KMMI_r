@@ -1,0 +1,1 @@
+text - "Bukan codingan"
